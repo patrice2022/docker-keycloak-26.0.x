@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+### Source Code ###
+keycloak*/data/
+mysql/data/
+nginx/log/
+nginx/ssl/
